@@ -1,6 +1,6 @@
 [Click here to view the examples](https://github.com/gurusabarish/python-algorithms)
 
-[Click here to Download the examples](https://github.com/gurusabarish/python-algorithms) 
+[Click here to Download the examples](https://github.com/gurusabarish/python-algorithms/archive/master.zip) 
 ## Bubble sort:
 
 * Worst and average case time complexcity: O(n^2) Worst case arrive when the list or array is reverse sorted.
